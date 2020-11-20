@@ -1,2 +1,6 @@
 # helloworld
-Learning repository
+Hello I'm Bless
+
+I have got a passion for coding and I am learning CSharp
+
+I love what I do.
